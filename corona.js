@@ -1,3 +1,0 @@
-function calc(){
-    var url=
-}
